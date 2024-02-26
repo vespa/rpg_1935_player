@@ -1,4 +1,4 @@
-Lista de Ocupações
+# Lista de Ocupações
 
 Incentivamos os jogadores a escolher qualquer ocupação que queira desde que aderente a um cenário de horror e investigação. Abaixo, algumas das possíveis sugestões:
 

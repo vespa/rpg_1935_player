@@ -1,10 +1,10 @@
-# 1930s
+# 1935
 
 ## Sobre o jogo
-A ideia é explorar um mundo alternativo da realidade brasileira nos anos 1930. Para fins de jogo, apenas fatos relevantes para incrementar a diversão serão usados - então os problemas relativos a gênero e raça não serão usados/abordados. 
+A ideia é explorar um mundo alternativo da realidade brasileira nos anos 1930. Para fins de jogo, apenas fatos relevantes para incrementar a diversão serão usados - então os questões  relativas a discriminação de gênero e raça não serão um elemento presente no jogo (exceto para enfatizar vilania). 
 
 ### Contribuindo
-Visto que este cenário é pouco baseado em material pregresso, é aberto aos jogadores contribuir com elementos para o cenário. Sociedades, personagens influentes, meios de comunicação como jornais ou rádios, etc, são bem vindos como sugestão - ainda mais se fizer parte do background dos personagens. 
+Visto que este cenário é pouco baseado em material pregresso, é aberto aos jogadores contribuir com elementos para o cenário. Sociedades, personagens influentes, meios de comunicação como jornais ou rádios, etc, são bem vindos como sugestão - ainda mais se for parte do background dos personagens. 
 
 # Sinopse
 ## Sobre o Cenário
@@ -37,13 +37,13 @@ Uma pessoa podia ser um padre e também professor de química, ou alguém que tr
 
 Há uma profusão de artistas e um grande interesse da elite da época em fazer o papel de mecenas (o próprio Chateubriand, acima citado, investia bastante dinheiro em artistas. Ele viria inclusive a ser o fundador do MASP, museu de arte de São Paulo)
 
-Veja [[Lista de Ocupações]]
+Veja [[Jogo/Lista de Ocupações]]
 
 ----
 ### Sociedades
 
 Qualquer sociedade, associação ou qualquer tipo de entidade presente na época pode ser usada em jogo. É importante frisar que além das tradicionais (Governo, forças de defesa, igreja católica e etc) há uma proliferação de interesse pelo oculto. Além da clara influência européia como as sociedades Rosa Cruz, Kardecismo ou mesmo interesse pela Thelema de Crowley, há também grupos estudiosos influenciados pelas religiões e ocultos africanas e também índigenas.
 
-* [[Grupos de estudos diversos]]
-* [[A Sociedade dos notáveis desbravadores do oculto]]
-* Nucleo de Estudos Parapsicológicos Edgar de Azevedo
+* [A Sociedade dos notáveis desbravadores do oculto](Grupos%20e%20Sociedades/A%20Sociedade%20dos%20notáveis%20desbravadores%20do%20oculto.md)
+* [Núcleo de Estudos Parapsicológicos Edgar de Azevedo](Grupos%20e%20Sociedades/Núcleo%20de%20Estudos%20Parapsicológicos%20Edgar%20de%20Azevedo.md)
+* [Grupos diversos de estudos](Grupos%20e%20Sociedades/Grupos%20diversos%20de%20estudos.md)
