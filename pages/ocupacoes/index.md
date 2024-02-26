@@ -32,6 +32,6 @@ Incentivamos os jogadores a escolher qualquer ocupação que queira desde que ad
 	* Dependendo de quão reconhecido, possivelmente há um mecenas apoiando
 	* O artista, se menos conhecido, pode ter uma segunda profissão (Fotografo, ilustrador científico, retratos falados na polícia ou professor de artes)
 
-* Jornalista
+* **Jornalista**
 	* Não é uma profissão regulamentada. Muito comum ser exercida por bacharéis de direito ou outras formações ligadas a letras/humanidade. Também era comum não ter formação formal
 	* O jornalista de campo tende a ter habilidades de investigação. 
