@@ -1,3 +1,4 @@
+# A Sociedade dos notáveis desbravadores do oculto
 
 Presidida pelo jornalista Alberto Rocha, esta sociedade foi criada por um grupo de jornalistas em 1920 a princípio como um hobby, quase uma piada. Mas o clube acabou atraindo atenção de outras pessoas e tornou-se comum reuniões mensais para discussão dos mais diversos assunto ligados ao oculto e o paranormal. Com os conhecimentos acumulados, não tardou que uma pequena biblioteca fosse montada contando com livros e jornais de todo o mundo - e inclusive correspondência com outros grupos estrangeiros foi estabelecida.
 

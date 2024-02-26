@@ -44,6 +44,6 @@ Veja [[Jogo/Lista de Ocupações]]
 
 Qualquer sociedade, associação ou qualquer tipo de entidade presente na época pode ser usada em jogo. É importante frisar que além das tradicionais (Governo, forças de defesa, igreja católica e etc) há uma proliferação de interesse pelo oculto. Além da clara influência européia como as sociedades Rosa Cruz, Kardecismo ou mesmo interesse pela Thelema de Crowley, há também grupos estudiosos influenciados pelas religiões e ocultos africanas e também índigenas.
 
-* [A Sociedade dos notáveis desbravadores do oculto](Grupos%20e%20Sociedades/A%20Sociedade%20dos%20notáveis%20desbravadores%20do%20oculto.md)
+*  [A Sociedade dos notáveis desbravadores do oculto](../CoCPlayer/Grupos%20e%20Sociedades/A%20Sociedade%20dos%20notáveis%20desbravadores%20do%20oculto)
 * [Núcleo de Estudos Parapsicológicos Edgar de Azevedo](Grupos%20e%20Sociedades/Núcleo%20de%20Estudos%20Parapsicológicos%20Edgar%20de%20Azevedo.md)
 * [Grupos diversos de estudos](Grupos%20e%20Sociedades/Grupos%20diversos%20de%20estudos.md)
