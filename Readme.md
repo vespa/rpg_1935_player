@@ -36,9 +36,11 @@ Há uma profusão de artistas e um grande interesse da elite da época em fazer 
  **[Veja lista de ocupações](pages/ocupacoes/index.md)**
 
 ----
-### Sociedades
+### Sociedades e organizações
 
-Qualquer sociedade, associação ou qualquer tipo de entidade presente na época pode ser usada em jogo. É importante frisar que além das tradicionais (Governo, forças de defesa, igreja católica e etc) há uma proliferação de interesse pelo oculto. Além da clara influência europeia, como as sociedades Rosacruz, Kardecismo ou mesmo interesse pela Thelema de Crowley, há também grupos estudiosos influenciados pelas religiões e cultos africanos e também indígenas.
+Qualquer sociedade, associação ou qualquer tipo de entidade presente na época pode ser usada em jogo. É importante frisar que além das tradicionais (Governo, forças de defesa, igreja católica e etc) há uma proliferação de interesse pelo oculto. Além da clara influência europeia, como as sociedades Rosacruz, Kardecismo ou mesmo interesse pela Thelema de Crowley, há também grupos estudiosos influenciados pelas religiões e cultos africanos e indígenas.
+
+*As sociedades descritas nos links abaixo são inventadas para o nosso cenário, portanto qualquer um que queira ajudar a expandi-las (ou mesmo criar novas), por favor, sinta-se mais que bem vinda(o).*
 
 * [A Sociedade dos notáveis desbravadores do oculto](pages/desbravadores_do_oculto/index.md)
 * [Núcleo de Estudos Parapsicológicos Edgar de Azevedo](pages/estudos_parapsicologicos/index.md)
