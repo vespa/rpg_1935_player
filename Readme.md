@@ -13,7 +13,9 @@ Visto que este cenário é pouco baseado em material pregresso, é aberto aos jo
 O ano é 1935 e a princípio centrado em São Paulo-SP, Brasil. Encontramos uma cena borbulhante e instável no Brasil: passaram-se apenas 3 anos desde a mal-fadada revolta separatista de São Paulo e também há muita insatisfação com o atual governo. Essa insatisfação tem duas frentes distintas: a elite sudestina, em especial Minas Gerais e São Paulo, revolta-se com o fato da não continuidade da dita política do 'Café com Leite' e resente-se de ter Vargas, um gaúcho, como presidente. A outra frente vem de grupos comunistas e anarquistas, muitos deles influenciados pelo pensamento de imigrantes recém chegados da europa (em especial italianos e espanhóis) que vieram fugindo da crescente onde fascista que se espalha por todo o lugar. Vargas demonstra certa simpatia por estes movimentos e frequentemente se mostra bastante autoritário.
 
 Vale destacar que os principais veículos de comunicação desta época pertencem em sua maioria aos diários associados, de Assis Chateubriand, e a força deles na época é equivalente a do grupo O Globo nos dias de hoje (que já existia mas ainda estava longe de ser a potência que é hoje).
-## Cultura
+
+---
+### Cultura
 
 Outro fato que marca este ano é a fundação da Universidade de São Paulo. Este fato influência a vida intelectual/acadêmica da cidade atraindo grandes talentos da época. A USP consolida-se com a combinação de diversas outras faculdades mais antigas, como é o caso de medicina e direito. A grande novidade é que aqui se inicia um núcleo de ciências humanos focado em filosofia, sociologia e letras - sendo o embrião do que viria a se tornar o que conhecemos hoje como FFLCH. Sociólogos, antropólogos, historiadores, arqueólogos e outros humanistas experientes ou não são atraídos ou convidados a integrar os novos núcleos de estudos destes centros de pesquisa.
 
