@@ -1,37 +1,40 @@
 # Lista de Ocupações
 
-Incentivamos os jogadores a escolher qualquer ocupação que queira desde que aderente a um cenário de horror e investigação. Abaixo, algumas das possíveis sugestões:
+Incentivamos os jogadores a escolher qualquer ocupação que queira, desde que aderente a um cenário de horror e investigação. Abaixo, algumas sugestões:
 
-* **Alienista/psicoterapeuta**
-	* interesse em parapsicologia
-	* Pode ter habilidades de medicina
+* **Alienista / psicoterapeuta**
+	* Interesse em parapsicologia;
+	* Pode ter habilidades de medicina;
+	* Interesse nos mistérios da mente.
 	
-* **Pesquisador/estudante de filosofia: teologia comparada**
-	* interesse em oculto
-	* Sociedades espíritas em geral
-	* Etc
+* **Pesquisador / estudante de filosofia: teologia comparada**
+	* Interesse em oculto;
+	* Sociedades espíritas em geral;
+	* Cultos indígenas;
+	* Rituais Africanos;
+	* Grupos esotéricos em geral.
 	
-* **Pesquisador: Arqueólogo, Zoólogo, Paleontólogo, etc**
-	* Provavelmente ligado algum museu da cidade. 
+* **Pesquisador: Arqueólogo, Paleontólogo, etc**
+	* Provavelmente ligado a algum museu da cidade. 
 	
 * **Investigador**
-	* Provavelmente alguém que é ou foi ligado a força policial
-	* **Conselho de Segurança Nacional** é um equivalente ao FBI nos anos 30
+	* Provavelmente alguém que é ou foi ligado a força policial;
+	* **Conselho de Segurança Nacional** é um equivalente ao FBI nos anos 30.
 	
 * **Médico**
-	* Interessado em novos estudos, inclusive os estranhos
-		* transplantes (tabu na época)
-		* experimentações com opioides, alcaloides e outras novas drogas
+	* Interessado em novos estudos, inclusive os estranhos;
+	* Transplantes (tabu na época);
+	* experimentações com opioides, alcalóides e outras novas drogas.
 
 * **Ocultista amador**
-	* Alguém ligado aos muitos clubes esotéricos famosos nas primeiras décadas do sec. 20
+	* Alguém ligado aos muitos clubes esotéricos famosos nas primeiras décadas do século 20;
 	* Provavelmente rico, extravagante e tem acesso a bibliotecas do oculto. 
 	
-* **Artista/Bohemio**
-	* O artista tem muitos contatos e acessos a diferentes classes sociais
-	* Dependendo de quão reconhecido, possivelmente há um mecenas apoiando
-	* O artista, se menos conhecido, pode ter uma segunda profissão (Fotografo, ilustrador científico, retratos falados na polícia ou professor de artes)
+* **Artista / Boêmio*
+	* O artista tem muitos contatos e acessos a diferentes classes sociais;
+	* Dependendo de quão reconhecido, possivelmente há um mecenas apoiando;
+	* O artista, se menos conhecido, pode ter uma segunda profissão (fotógrafo, ilustrador científico, retratos falados na polícia ou professor de artes).
 
 * **Jornalista**
-	* Não é uma profissão regulamentada. Muito comum ser exercida por bacharéis de direito ou outras formações ligadas a letras/humanidade. Também era comum não ter formação formal
+	* Não é uma profissão regulamentada. É muito comum ser exercida por bacharéis de direito ou outras formações ligadas a letras/humanidade. Também era comum não ter formação formal (A primeira faculdade brasileira de comunicação social viria a ser fundada somente em 1947);
 	* O jornalista de campo tende a ter habilidades de investigação. 
