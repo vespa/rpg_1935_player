@@ -7,6 +7,12 @@ A ideia é explorar um mundo alternativo da realidade brasileira dos anos 1930. 
 ### Contribuindo
 Visto que este cenário é pouco baseado em material pregresso, é aberto aos jogadores a contribuição de elementos para o cenário. Sociedades, personagens influentes, jornais, rádios, conspirações, rumores e etc., são bem vindos como sugestão - ainda mais se for parte do background dos personagens. 
 
+## Material de campanha
+
+### Downloads
+* [Resumo das Regras](../CoCPlayer/downloads/Cthulhu_Rules.pdf)
+* [Planilha](../CoCPlayer/downloads/Cthulhu_Character_Sheet_v1.pdf)
+
 # Sinopse
 ## Sobre o Cenário
 
