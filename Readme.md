@@ -10,8 +10,8 @@ Visto que este cenário é pouco baseado em material pregresso, é aberto aos jo
 ## Material de campanha
 
 ### Downloads
-* [Resumo das Regras](../CoCPlayer/downloads/Cthulhu_Rules.pdf)
-* [Planilha](../CoCPlayer/downloads/Cthulhu_Character_Sheet_v1.pdf)
+* [Resumo das Regras](/downloads/Cthulhu_Rules.pdf)
+* [Planilha](/downloads/Cthulhu_Character_Sheet_v1.pdf)
 
 # Sinopse
 ## Sobre o Cenário
