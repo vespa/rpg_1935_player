@@ -1,4 +1,4 @@
-# O estranho desaparecimento do sr. Aberto Rocha
+# O estranho desaparecimento do Sr. Aberto Rocha
 
 ## Sinopse
 
