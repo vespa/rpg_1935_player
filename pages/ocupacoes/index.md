@@ -21,7 +21,8 @@ Incentivamos os jogadores a escolher qualquer ocupação que queira, desde que a
 	
 ## Investigador
 * Provavelmente alguém que é ou foi ligado a força policial;
-* **Conselho de Segurança Nacional** é um equivalente a PF nos anos 30. Se alguma força do governo for envolvida em investigação de casos extra normais, provavelmente seria esta. 
+* **Conselho de Segurança Nacional** é um equivalente a PF nos anos 30. Se alguma força do governo for envolvida em investigação de casos extra normais, provavelmente seria esta;
+* Provavelmente tem acesso a armas
 
 ## Médico
 * Interessado em novos estudos, inclusive os estranhos;
@@ -40,3 +41,17 @@ Incentivamos os jogadores a escolher qualquer ocupação que queira, desde que a
 ## Jornalista
 * Não é uma profissão regulamentada. É muito comum ser exercida por bacharéis de direito ou outras formações ligadas a letras/humanidade. Também era comum não ter formação formal (A primeira faculdade brasileira de comunicação social viria a ser fundada somente em 1947);
 * O jornalista de campo tende a ter habilidades de investigação. 
+
+## Professor Docente 
+* Dinheiro para bolsas de pesquisa;
+* Pode usar estudantes como apoio.
+
+### Antiquário: 
+comece o jogo com uma pequena loja de relíquias, poucos amigos e posse de uma relíquia amaldiçoada que você ainda não entende.
+- Artista: comece o jogo com um número crescente de fãs, um fluxo repentino de dinheiro e um amor que está arruinando sua vida.
+- Policial Aposentado: comece o jogo com alguns contatos antigos na polícia, contas não pagas e uma experiência traumática que o levará à aposentadoria.
+- Médico: comece o jogo com uma pequena clínica, amplo acesso a drogas e um vício que está tomando conta da sua carreira.
+- Explorador: comece o jogo com algumas descobertas famosas, uma pequena fortuna e a certeza de que elas virão atrás de você.
+- Escritor: comece o jogo com um livro de sucesso, muitas garrafas vazias de uísque e um manuscrito escrito pela metade que você odeia.
+- Jornalista: comece o jogo com uma reputação a manter, alguns informantes confiáveis ​​e a percepção de que alguém deseja desesperadamente silenciar sua voz.
+- Criminoso: comece o jogo com uma arma, um estoque de dinheiro roubado e a polícia atrás de você.
