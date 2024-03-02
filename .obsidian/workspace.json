@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jogos/00_piloto/index.md",
+                "file": "pages/ocupacoes/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jogos/00_piloto/index.md",
+                "file": "pages/ocupacoes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jogos/00_piloto/index.md",
+                "file": "pages/ocupacoes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jogos/00_piloto/index.md"
+                "file": "pages/ocupacoes/index.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "fb22405eb2ce9782",
   "lastOpenFiles": [
+    "Readme.md",
     "pages/links.md",
+    "jogos/00_piloto/index.md",
     "downloads/Cthulhu_Rules.pdf"
   ]
 }

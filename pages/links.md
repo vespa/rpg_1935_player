@@ -9,5 +9,3 @@ https://pt.wikipedia.org/wiki/Universidade_de_S%C3%A3o_Paulo
 Modernismo no Brasil
 https://pt.wikipedia.org/wiki/Modernismo_no_Brasil
 
-
-ca
