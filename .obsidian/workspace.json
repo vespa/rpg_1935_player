@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "5cb69d4e5c9eb401",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1b6e83dd8550a7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb22405eb2ce9782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jogos/00_piloto/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8da9e39ceb6524a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8c02d8b9c216c6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "119c7f03e59975c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdbaa2ce24cce1f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d451107402b63abf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba3add8c71577a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc61aec5f0bec3a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21fa2a955f84a2a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "jogos/00_piloto/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9d3a61fa96c94f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "jogos/00_piloto/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b0d5fe86d809562",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9dfa43c7cbe0edf1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "jogos/00_piloto/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb22405eb2ce9782",
+  "lastOpenFiles": [
+    "pages/links.md",
+    "downloads/Cthulhu_Rules.pdf"
+  ]
+}
