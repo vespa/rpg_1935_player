@@ -46,10 +46,10 @@ Incentivamos os jogadores a escolher qualquer ocupação que queira, desde que a
 * Dinheiro para bolsas de pesquisa;
 * Pode usar estudantes como apoio.
 
-### Antiquário: 
+## Antiquário: 
 * comece o jogo com uma pequena loja de relíquias
 * conhecimento de artefatos históricos e lendas que os permeiam
 
-### Policial Aposentado
+## Policial Aposentado
 * Alguns contatos antigos na polícia, contas não pagas e uma experiência traumática que o levará à aposentadoria.
 
