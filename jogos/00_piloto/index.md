@@ -33,5 +33,5 @@ Hugo é aluno do último ano de medicina. Hugo é de família pobre e conseguiu 
 
 #### Mariana Pascoal de Lima
 
-Mariana é dona de uma loja de antiguidades na região da praça da árvore. Ela recentemente vendeu em leilão uma caixa fechada encontrada em um navio naufragado - a caixa era vedada e provavelmente foi pouco danificada. A compra foi feita pelo senhor Alberto Rocha, de quem ela é uma amiga próxima.
+Mariana é dona de uma loja de antiguidades na região da praça da árvore. Ela recentemente vendeu em leilão uma caixa fechada encontrada em um navio naufragado - a caixa era vedada e provavelmente seu conteúdo, do qual não se sabe nada, foi pouco danificada. A compra foi feita pelo senhor Alberto Rocha, de quem ela é uma amiga próxima.
 
