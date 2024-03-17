@@ -11,5 +11,16 @@ Um belo dia, Alberto sumiu sem deixar vestígios. Onde estará Alberto?
 ---
 ## Resumo do jogo
 
-Estranhando o desparecimento de Alberto e a inação da polícia, Agnes, Alfredo Mantovani
+*notas feitas durante o jogo, preciso revisar e organizar melhor.* 
+
+Estranhando o desparecimento de Alberto e a inação da polícia, [Agnes](../../pages/pcs/Agnes_Aparecida_de_Jesus/index.md), [Alfredo](../../pages/npcs/Alfredo_Mantovani/index.md), [Hugo](../../pages/npcs/Hugo_Vasconcelos/index.md) e [Leonor](../../pages/npcs/Leonor_Sousa/index.md) decidem investigar eles mesmos o paradeiro do jornalista. 
+
+Durante suas buscas se deparam com uma estranha situação: após investigar a casa e escritório de Alberto e também falar com [Demóstenes](../../pages/npcs/Demostenes_Penteado/index.md) e [Carola](../../pages/npcs/Carola_Garcia/index.md), os jogadores descobrem que Alberto, pela primeira vez, se deparara com algo realmente sobrenatural. Ele ficou obcecado com o conteúdo do livro [Véus da realidade](../../pages/items_jogo/livros/veus_da_realidade/index.md) e descobriu uma forma de acessar um semi-plano adjacente ao nosso, chamado de Entremundos. Alberto fez experiencias sozinho no começo, e depois envolveu seus dois assistentes (Carola e Demóstenes) conforme aperfeiçoava o ritual.
+
+O ritual obviamente deu errado e Alberto ficou preso neste semi-plano. Carola e Demóstenes decidiram esconder a situação devido ao terror que passaram durante a execução. Mas Carola, sentindo culpa, deu uma dica aos personagens que levou a uma sala secreta no escritório de Alberto na SNDO e, juntando com informações obtidas no caderno de notas encontrado na casa de Alberto, eles foram capazes de entender mais ou menos como poderiam resgatar Alberto e onde. 
+
+Um portal havia sido aberto em um **lugar de poder** (que pode ser qualquer lugar com um alto índice de energia psíquica acumulada. Poderia ser um templo, poderia ser um sanatório), mas não havia sido totalmente fechado. O conteúdo que vazava do portal gerava pesadelos em todos os moradores de regiões próximas e ninguém sabe quais seriam as consequências de estar exposto por muito tempo àquelas energias.
+
+Com o auxilio de Carola e Demostenes, os personagens recriam o ritual e conseguem recriar o ritual e resgatar Alberto - mas houveram algumas consequências: Agnes e Alfredo passaram algumas semanas em uma ala psiquiátrica, Carola quase perdeu um braço (durante o ritual era necessário uma vasilha de óleo em chamas, onde o amuleto deveria ser jogado dentro para abertura do portal. Carola pegou o amuleto da vasilha ainda em chamas para forçar o fechamento do portal, tendo queimaduras graves no processo). Demóstenes foi atingindo em cheio por uma das sombras que saíram do portal durante o ritual e, poucos meses depois, morreu de um mal misterioso. 
+
 

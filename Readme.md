@@ -9,14 +9,17 @@ Visto que este cenário é pouco baseado em material pregresso, é aberto aos jo
 
 ## Material de campanha
 
+
+### Resumo de Jogos
+- [09.03.2024: O estranho desaparecimento do Sr. Aberto Rocha](jogos/00_piloto/index.md)
+
 ### Cenário
 - [Política e cultura da época](pages/cenario/index.md)
 - [Ocupações](pages/ocupacoes/index.md)
 - [NPCs conhecidos](pages/npcs/index.md)
 
-Personagens dos jogadores
-- [Agnes Aparecida de Jesus, Teologista comparativa](pages/pcs/Agnes_Aparecida_de_Jesus/index.md)
-
+### Personagens dos jogadores
+- [Agnes Aparecida de Jesus, Teóloga comparativa](pages/pcs/Agnes_Aparecida_de_Jesus/index.md)
 
 ### Downloads
 * [Resumo das Regras](/downloads/Cthulhu_Rules.pdf)
@@ -45,5 +48,3 @@ Qualquer sociedade, associação ou qualquer tipo de entidade presente na época
 * [Núcleo de Estudos Parapsicológicos Edgar de Azevedo](pages/organizacoes/estudos_parapsicologicos/index.md)
 * [Outros grupos](pages/organizacoes/outros_grupos/Index.md)
 
-
-## Resumo de Jogos
