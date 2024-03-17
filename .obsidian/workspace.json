@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jogos/00_piloto/index.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jogos/00_piloto/index.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jogos/00_piloto/index.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jogos/00_piloto/index.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "fb22405eb2ce9782",
   "lastOpenFiles": [
-    "Readme.md",
-    "jogos/00_piloto/index.md",
+    "pages/npcs/index.md",
     "jogos/00_piloto/personagens/index.md",
+    "jogos/00_piloto/index.md",
+    "Readme.md",
+    "pages/npcs",
+    "pages/cenario/index.md",
+    "pages/cenario",
     "pages/ocupacoes/index.md",
     "jogos/00_piloto/personagens",
     "pages/links.md",
