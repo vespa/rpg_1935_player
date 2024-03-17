@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/npcs/index.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/npcs/index.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/npcs/index.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/npcs/index.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -145,8 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "119c7f03e59975c8",
+  "active": "fb22405eb2ce9782",
   "lastOpenFiles": [
+    "pages/organizacoes/desbravadores_do_oculto/index.md",
+    "Readme.md",
+    "pages/npcs/index.md",
     "pages/items_jogo/livros/veus_da_realidade/index.md",
     "pages/items_jogo/Untitled.md",
     "jogos/00_piloto/index.md",
@@ -161,10 +164,7 @@
     "pages/items_jogo/livros",
     "pages/items_jogo",
     "pages/Untitled.md",
-    "pages/organizacoes/desbravadores_do_oculto/index.md",
     "pages/npcs/Alfredo_Mantovani/index.md",
-    "Readme.md",
-    "pages/npcs/index.md",
     "pages/pcs/Agnes_Aparecida_de_Jesus",
     "pages/pcs",
     "pages/npcs/Nicolas_Araujo/index.md",

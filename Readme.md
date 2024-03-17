@@ -41,7 +41,7 @@ Qualquer sociedade, associação ou qualquer tipo de entidade presente na época
 
 *As sociedades descritas nos links abaixo são inventadas para o nosso cenário, portanto qualquer um que queira ajudar a expandi-las (ou mesmo criar novas), por favor, sinta-se mais que bem vinda(o).*
 
-* [index](pages/organizacoes/desbravadores_do_oculto/index.md)
+* [A Sociedade dos notáveis desbravadores do oculto](pages/organizacoes/desbravadores_do_oculto/index.md)
 * [Núcleo de Estudos Parapsicológicos Edgar de Azevedo](pages/organizacoes/estudos_parapsicologicos/index.md)
 * [Outros grupos](pages/organizacoes/outros_grupos/Index.md)
 
