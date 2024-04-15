@@ -80,7 +80,7 @@ const config: Config = {
         {
           // type: "docSidebar",
           to: "material/Material de Campanha",
-          label: "Material de campanha (downloads)",
+          label: "Material de campanha",
           position: "left",
           sidebarId: "tutorialSidebar",
         },
