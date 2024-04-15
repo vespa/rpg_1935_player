@@ -1,0 +1,1 @@
+Leonor é escrivã da polícia. Embora faça trabalho burocrático, Leonor tem treinamento formal em investigação e almeja esse posto para o futuro. Ela tem conhecimento de processos internos da polícia, acesso a arquivos e também contatos que podem ser úteis ao longo do jog

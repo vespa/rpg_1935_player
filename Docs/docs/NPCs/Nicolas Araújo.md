@@ -1,0 +1,1 @@
+Nicolas é um rapaz no começo dos vinte anos. Ele é baixo, magro e um tanto tímido. Atualmente, ele é o secretário e "faz-tudo" da **SNDO** É uma pessoa muito inteligente, organizada e sabe de quase tudo o que acontece dentro da SNDO - mesmo um ou outro segredo mais obscuro. Em compensação, ele sabe da importância de ser discreto e é muito bom em guardar segredos. 

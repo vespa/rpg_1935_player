@@ -1,0 +1,1 @@
+Um rapaz super empolgado que está no começo de sua carreira como fotógrafo. Ele tem pele morena, é algo e cabelo muito curto. 
